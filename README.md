@@ -60,7 +60,7 @@ I am a Software Engineer with a background in graphic design. I'm proficient in 
         <p><a href="#" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="#" rel="nofollow">
-            <img src="gif........." width="100%" alt="Cronofy.tech" data-canonical-src="gif......." style="max-width:100%;">
+            <img src="gif........." width="100%" alt="Proj 1" data-canonical-src="gif......." style="max-width:100%;">
         </a>
         <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, Firebase, &amp; Twitter API </strong> - Cronofy - A web app that lets you schedule your twitter posts.</p>
     </td>
@@ -70,7 +70,7 @@ I am a Software Engineer with a background in graphic design. I'm proficient in 
         <p> <a href="#" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="#" rel="nofollow">
-            <img src="gif....." width="100%" alt="Portfolio" data-canonical-src="gif......" style="max-width:100%;">
+            <img src="gif....." width="100%" alt="Proj 2" data-canonical-src="gif......" style="max-width:100%;">
         </a>
         <p><strong>HTML5, CSS3, Bootstrap, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
