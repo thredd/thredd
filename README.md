@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/OP62PhR6QpnoYqhD2R/giphy.gif">
+<img src="https://media.giphy.com/media/OP62PhR6QpnoYqhD2R/giphy.gif" width="110%">
 
 ### Hi there 👋, My name is Nikki!
 
