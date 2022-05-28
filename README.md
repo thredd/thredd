@@ -59,7 +59,7 @@ I am a Software Engineer with a background in graphic design. I'm proficient in 
         <p><a href="https://thredd-astronomy.netlify.app" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="#" rel="nofollow">
-            <img src="https://media.giphy.com/media/Ix0EuHDnMK48sAePlU/giphy.gif" width="100%" alt="Proj 1" data-canonical-src="https://media.giphy.com/media/Ix0EuHDnMK48sAePlU/giphy.gif" style="max-width:100%;">
+            <img src="https://media.giphy.com/media/Ix0EuHDnMK48sAePlU/giphy.gif" width="100%" alt="Proj 1" data-canonical-src="https://media.giphy.com/media/Ix0EuHDnMK48sAePlU/giphy.gif" target="_blank" style="max-width:100%;">
         </a>
         <p><strong>HTML, CSS, Javascript, NASA API</strong> - Daily Astronomy - A web app that lets shows you a different image for every different date selected using NASA's API.</p>
     </td>
