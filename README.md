@@ -7,7 +7,7 @@ I am a Software Engineer with a background in graphic design. I'm proficient in 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
  
-### Frontend  
+### Front-end  
  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -23,7 +23,7 @@ I am a Software Engineer with a background in graphic design. I'm proficient in 
 </div>
 </td><td valign="top" width="33%">
  
-### Backend  
+### Back-end  
  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
